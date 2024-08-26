@@ -5,6 +5,7 @@
 Note: This is only the frontend part
 
 Welcome to **Max's Food Delivery App**! This project is a full-featured food delivery application built using **ReactJS**. It's designed to provide users with an intuitive and seamless experience when browsing, ordering, and tracking their favorite meals from local restaurants.
+## Live Demo: https://hotel-website-4s1i.vercel.app/
 
 ## ✨ Features
 
